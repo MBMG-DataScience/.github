@@ -1,5 +1,8 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/MBMG-DataScience/.github/refs/heads/main/img/MBMG_logo_2024.png" alt="Montana Bureau of Mines and Geology" />
+    <img
+        src="https://raw.githubusercontent.com/MBMG-DataScience/.github/refs/heads/main/img/MBMG_logo_2024.png"
+        alt="Montana Bureau of Mines and Geology"
+        style="width: 338px; height: 219px;" />
 </h1>
 
 **Our mission is to provide information for the sound use of Montana's geological and water resources.**
